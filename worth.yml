@@ -1,0 +1,79 @@
+worth:
+#u better use this u broke bitch boy
+  # Items not listed in this file will not be sellable on the server
+  # Setting the worth to 0 will sell items for free, delete the item or set to -1 to disable.
+
+  # This will set the worth of all logs to '2'
+#  log: 2.0  
+
+  # This will work similar to the above syntax
+#  wool:
+ #   '0': 20
+    
+  # This will only allow selling leaves with datavalue '0' and '1'
+#  leaves: 
+ #   '0': 1.0
+  #  '1': 1.0
+    
+  # This will allow the selling of all, but sells '0' slightly cheaper  
+ # sapling:
+    #'0': 2.0  
+    #'*': 2.5
+
+  stone: 1.17
+  cobblestone: 0.78
+  dirt: 0.54
+  grass: 0.78
+  sand: 0.39
+  sandstone:
+  '0': 1.56
+  '1': 1.56
+  '2': 1.56
+  gravel: 0.39
+  stonebricks:
+  '0': 0.78
+  '1': 1.56
+  '2': 1.56
+  '3': 1.56  
+  log:
+  '0': 1.56
+  '1': 1.56
+  '2': 1.56
+  '3': 1.56
+  coal: 2.65
+  ironingot: 30
+  goldingot: 35
+  redstone: 3.125
+  lapislazuli: 4.68
+  diamond: 50
+  emerald: 125
+  ironblock: 270
+  goldblock: 315
+  lapisblock: 40
+  redstoneblock: 50
+  egg: 3.125
+  glass: 0.78
+  netherwart: 3.125
+  sugarcane: 1.56
+  carrot: 3.125
+  blazerod: 18.75
+  ghasttear: 31.25
+  magmacream: 37.50
+  spidereye: 20
+  arrow: 0.25
+  string: 1.25
+  gunpowder: 9.50
+  rottenflesh: 0.78
+  enderpearl: 15.62
+  bone: 1.56
+  inksac: 3.125
+  obsidian: 3.90
+  endstone: 3.125
+  netherrack: 1.01
+  netherbrick: 1.56
+  netherstair: 2.34
+  tnt: 25
+  cookedpork: 4.06
+  cookedbeef: 4.06
+  emeraldblock: 0
+  diamondblock: 0
